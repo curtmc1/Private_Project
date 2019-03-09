@@ -1,37 +1,40 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-
-# Executables
-*.exe
-*.out
-*.app
-
-.vs/StudioProject2/v15/ipch
-
 *.VC.db
 *.VC.db-shm
 *.VC.db-wal
 *.VC.opendb
 *.mtl
+
+Common/Debug/*.obj
+Common/Debug/*.pdb
+Common/Debug/*.idb
+Common/Debug/*.tlog
+Common/Debug/*.log
+DM2126Prac/Debug/*.log
+DM2126Prac/Debug/*.obj
+DM2126Prac/Debug/*.pdb
+DM2126Prac/Debug/*.idb
+DM2126Prac/Debug/*.tlog
+
+Debug/*.lib
+Debug/*.pdb
+Debug/*.ilk
+Debug/*.exe
+
+Common/Release/*.obj
+Common/Release/*.pdb
+Common/Release/*.idb
+Common/Release/*.tlog
+Common/Release/*.log
+DM2126Prac/Release/*.log
+DM2126Prac/Release/*.obj
+DM2126Prac/Release/*.pdb
+DM2126Prac/Release/*.idb
+DM2126Prac/Release/*.tlog
+
+Release/*.lib
+Release/*.pdb
+Release/*.ilk
+Release/*.exe
+
+.vs/StudioProject2/v15/*.db
+.vs/StudioProject2/v15/ipch
