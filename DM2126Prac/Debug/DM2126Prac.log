@@ -1,0 +1,6 @@
+﻿  Application.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
+  c:\users\sihan\desktop\curtmc1\comg_sp\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  AssignmentScene.cpp
+  Generating Code...
+  DM2126Prac.vcxproj -> C:\Users\sihan\Desktop\curtmc1\ComG_SP\Debug\DM2126Prac.exe
