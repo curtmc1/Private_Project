@@ -1,20 +1,4 @@
 ﻿  Application.cpp
 c:\program files (x86)\windows kits\10\include\10.0.17134.0\shared\minwindef.h(130): warning C4005: 'APIENTRY': macro redefinition
-  d:\private_project\private_project\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
-  AssignmentScene.cpp
-  Camera.cpp
-  Camera2.cpp
-  LoadOBJ.cpp
-  LoadTGA.cpp
-  main.cpp
-  Mesh.cpp
-  MeshBuilder.cpp
-  ObjectBox.cpp
-  Physics.cpp
-d:\private_project\private_project\dm2126prac\source\physics.cpp(41): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
-d:\private_project\private_project\dm2126prac\source\physics.cpp(65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-  shader.cpp
-  Utility.cpp
-  Generating Code...
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-  DM2126Prac.vcxproj -> D:\private_project\Private_Project\Debug\DM2126Prac.exe
+  d:\private_project\glfw\include\glfw\glfw3.h(98): note: see previous definition of 'APIENTRY'
+  DM2126Prac.vcxproj -> D:\Private_Project\Debug\DM2126Prac.exe

@@ -157,6 +157,7 @@
     <ClCompile Include="Source\ObjectBox.cpp" />
     <ClCompile Include="Source\Physics.cpp" />
     <ClCompile Include="Source\shader.cpp" />
+    <ClCompile Include="Source\StartMenu.cpp" />
     <ClCompile Include="Source\Utility.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -174,6 +175,7 @@
     <ClInclude Include="Source\Physics.h" />
     <ClInclude Include="Source\Scene.h" />
     <ClInclude Include="Source\shader.hpp" />
+    <ClInclude Include="Source\StartMenu.h" />
     <ClInclude Include="Source\Utility.h" />
     <ClInclude Include="Source\Vertex.h" />
   </ItemGroup>

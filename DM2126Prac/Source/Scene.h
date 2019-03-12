@@ -11,6 +11,9 @@ public:
 	virtual void Update(double dt) = 0;
 	virtual void Render() = 0;
 	virtual void Exit() = 0;
+
+	bool selectPlay = true;
+	bool selectInst = false;
 };
 
 #endif
